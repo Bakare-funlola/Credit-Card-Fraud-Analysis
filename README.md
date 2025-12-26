@@ -1,6 +1,6 @@
 # Credit-Card-Fraud-Analysis
 
-![Image](https://github.com/user-attachments/assets/d0e127a6-577b-4cee-8a00-ecc3fdb5f238)
+[Image](https://github.com/user-attachments/assets/d0e127a6-577b-4cee-8a00-ecc3fdb5f238)
 
 ## Project Overview
 This project analyses a credit card transaction dataset to identify patterns and characteristics associated with fraudulent transactions. The analysis was conducted using Microsoft Excel, focusing on descriptive and exploratory data analysis techniques to uncover trends in transaction behaviour across different dimensions.
