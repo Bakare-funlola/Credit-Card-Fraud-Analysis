@@ -63,4 +63,3 @@ Based on the analysis, it is recommended that financial institutions enhance mon
 
 ---
 
-## Project Structure
