@@ -58,6 +58,8 @@ Regression analysis was not applied, as the focus of the project was on pattern 
 The analysis shows that fraudulent transactions, although fewer in number, have a significant financial impact. Fraud occurrence varies by transaction amount, time, entry mode, and country, indicating that fraud risk is not evenly distributed across all transactions.
 
 
+![Dashboard](Dashboard/Credit-fraud-dashboard.png)
+
 ## Recommendations
 Based on the analysis, it is recommended that financial institutions enhance monitoring during high-risk time periods, apply additional controls to high-risk transaction types and entry modes, and strengthen country-based risk checks. Regular descriptive analysis should be conducted to continuously update fraud detection strategies.
 
